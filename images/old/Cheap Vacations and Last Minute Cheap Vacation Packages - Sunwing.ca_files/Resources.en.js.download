@@ -1,0 +1,11 @@
+﻿var swgRedesignApp;
+(function (swgRedesignApp) {
+    (function (resources) {
+
+        resources.ReadMore = "Read More";
+        resources.DisplayingSunwingNews = "Displaying Sunwing news articles.";
+        resources.Close = "Close";
+        resources.LatestNews = "Latest news";
+
+    })(swgRedesignApp.Resources || (swgRedesignApp.Resources = {}));
+})(swgRedesignApp || (swgRedesignApp = {}));
